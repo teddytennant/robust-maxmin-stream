@@ -1,0 +1,9 @@
+[package]
+name = "robust-maxmin-stream"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Streaming algorithms for robust max-min diversification"
+readme = "README.md"
+
+[dependencies]
